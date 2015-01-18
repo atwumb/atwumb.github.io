@@ -39,6 +39,30 @@ google_analytics:
 # Used for Sitemap.xml and your RSS feed
 url: http://atwumb.github.io
 
+# Settings for sharing
+#Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
+#Add a tweet button => provider :plusone
+#Add a like button => providder : like (need a facebook appid)
+#Add them all (i.e. hn + tweet +  plusone + like => provider : all
+#Set 'provider' to the sharing provide you want to use
+#Set 'provider' to false to turn sharing off globally
+sharing:
+  provider: all 
+  twitter:bxghanajewel
+    size:
+    via:
+    count:
+facebook:
+    appid: 123
+    layout: button_count
+    font:
+    faces: false
+    width: 90
+googleplus:
+    size : medium
+    width:
+    annotation : bubble
+
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)

@@ -10,9 +10,9 @@ Python is my chosen language that I’m taking this coding journey. I hope to do
 
 ### More Information
 
-[Checkout my LinkedIn Page](www.linkedin.com/pub/amy-twum-barimah/31/a9/4b4/)
+[Checkout my LinkedIn Page](www.linkedin.com/pub/amy-twum-barimah)
 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[py3developer@gmail.com](mailto:py3developer@gmail.com)

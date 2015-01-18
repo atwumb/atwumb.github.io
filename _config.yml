@@ -48,7 +48,7 @@ url: http://atwumb.github.io
 #Set 'provider' to false to turn sharing off globally
 sharing:
   provider: all 
-  twitter:bxghanajewel
+  twitter:
     size:
     via:
     count:

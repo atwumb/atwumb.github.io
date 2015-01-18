@@ -8,11 +8,6 @@ My name is Amy Twum-Barimah and I am  an developer. I have been in IT for while 
 Python is my chosen language that I’m taking this coding journey. I hope to document my trials and successes in my quest to gain proficiency in Python and venture into web development.
 
 
-### More Information
-
-[Checkout my LinkedIn Page](www.linkedin.com/pub/amy-twum-barimah)
-
-
 ### Contact me
 
 [py3developer@gmail.com](mailto:py3developer@gmail.com)
